@@ -1,3 +1,4 @@
-/node_modules/
+/node_modules
 db.js
 Procfile
+npm.logs
