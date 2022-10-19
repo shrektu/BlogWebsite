@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 node_modules/
 db.js
 .DS_Store
 Procfile
 npm.logs
+=======
+/node_modules
+db.js
+>>>>>>> 64b0243a6071716a74745bef2fe0745944ff3fdc

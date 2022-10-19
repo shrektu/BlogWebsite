@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "blog-website",
+=======
+  "name": "ejs-challenge",
+>>>>>>> 64b0243a6071716a74745bef2fe0745944ff3fdc
   "version": "1.0.0",
   "description": "",
   "main": "app.js",

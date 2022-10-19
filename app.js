@@ -87,8 +87,13 @@ app.get("/posts/:postId", function (req, res) {
   });
 });
 
+<<<<<<< HEAD
 const PORT = process.env.PORT || 3000;
 
 app.listen(PORT, function () {
   console.log("Server started succesfully!");
+=======
+app.listen(3000, function () {
+  console.log("Server started on port 3000");
+>>>>>>> 64b0243a6071716a74745bef2fe0745944ff3fdc
 });
